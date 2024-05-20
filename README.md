@@ -1,2 +1,2 @@
 live link
-https://tastmaster.netlify.app/
+https://goalguru.netlify.app/
